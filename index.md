@@ -1,6 +1,6 @@
 ## Welcome
 
-My name is Sarang Pande, I am currently pursuing Masters of Science in Computer Science at Stony Brook University.
+My name is **Sarang Pande**, I am a Masters in Computer Science student at Stony Brook University.
 
 ### Little background about me
 
