@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment 1(Doodle): Smart Stove
+title: Assignment 1(Doodle) Smart Stove
 ---
 
 ## Welcome
