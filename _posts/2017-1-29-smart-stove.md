@@ -1,3 +1,8 @@
+---
+layout: post
+title: Assignment 1(Doodle): Smart Stove
+---
+
 ## Welcome
 
 My name is **Sarang Pande**, I am a Masters in Computer Science student at Stony Brook University.
